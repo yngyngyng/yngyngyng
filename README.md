@@ -2,14 +2,14 @@
 <tr>
 <td>
 
-<img src="https://i.imgur.com/b2OBSgt.png" alt="yng-hello" width="250px" height="200px">
+<img src="https://i.imgur.com/b2OBSgt.png" alt="yng-hello" width="200px" height="200px">
 
 </td>
 <td>
 
 ### 👋 Hey, {...}yng here.
 ##
-#### Senior Test Engineer at duty 💼, Full Stack Developer in heart ❤️ Based in Serbia 🇷🇸
+#### Senior Test Engineer at duty 💼, Full Stack Developer in heart ❤️ </br> Based in Serbia 🇷🇸
 #### 29 years young 🌱, half of that spent on coding...
 
 </td>
