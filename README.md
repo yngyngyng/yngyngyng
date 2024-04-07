@@ -9,7 +9,7 @@
 
 ### 👋 Hey, {...}yng here.
 ##
-#### Senior Test Engineer at duty 💼, Full Stack Developer in heart ❤️ </br> Based in Serbia 🇷🇸
+#### 💼 Senior Test Engineer at duty, </br>❤️ Full Stack Developer in heart </br>🇷🇸 Based in Serbia
 #### 29 years young 🌱, half of that spent on coding...
 
 </td>
