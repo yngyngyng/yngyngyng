@@ -15,6 +15,8 @@
 
 #### 29 years young 🌱, half of that spent on coding...
 
+#### 🐶 I think dogs are cool
+
 </td>
 </tr>
 </table>
