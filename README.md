@@ -11,7 +11,7 @@
 
 ##
 
-#### 💼 Head of QA at duty, </br>❤️ Full Stack Developer in heart </br>🇷🇸 Based in Serbia
+#### 💼 Technical Product Engineer at duty, </br>❤️ Full Stack Developer in heart </br>🇷🇸 Based in Serbia
 
 #### 30 years young 🌱, half of that spent on coding...
 
