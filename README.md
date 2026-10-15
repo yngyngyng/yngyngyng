@@ -13,7 +13,7 @@
 
 #### 💼 Technical Product Engineer at duty, </br>❤️ Full Stack Developer in heart </br>🇷🇸 Based in Serbia
 
-#### 30 years young 🌱, half of that spent on coding...
+#### 31 years young 🌱, half of that spent on coding...
 
 #### 🐶 I think dogs are cool
 
